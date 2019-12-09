@@ -6,3 +6,5 @@ LEDを点灯させるデバイスドライバ．
 echo 0 /dev/myled0 →　LEDが消灯<br>
 echo 1 /dev/myled0 →　LEDが点灯<br>
 echo 2 /dev/myled0 →　LEDが点滅(0.5[s])<br>
+
+YouTube(デモ動画)のリンク<br>
