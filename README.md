@@ -8,3 +8,4 @@ echo 1 /dev/myled0 →　LEDが点灯<br>
 echo 2 /dev/myled0 →　LEDが点滅(0.5[s])<br>
 
 YouTube(デモ動画)のリンク<br>
+https://youtu.be/sVp-aM5Z95o
