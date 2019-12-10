@@ -1,5 +1,5 @@
 # robosys_2019
-LEDを点灯させるデバイスドライバ．
+LEDを点灯させるデバイスドライバを作成．
 参考にしたページは次のリンクである．https://ryuichiueda.github.io/robosys2019/lesson7.html
 
 下記のコマンドを送信するとLEDが点灯または消灯する．<br>
